@@ -1,12 +1,9 @@
-Hi there 👋
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px" style="max-width:100%;"> I'm Oriana Pellegrini</h1>
+<h3 align="center">Junior Software Develper</h3>
 
-Java, Spring, SQL, Maven, Hibernate, REST, HTML, CSS, Thymeleaf, Bootstrap and some JavaScript.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/oriana-pellegrini/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="oriana-pellegrini" height="30" width="40" /></a>
+</p>
 
-- 🔭 I’m currently working on an E-commerce.
-- 🌱 I’m currently learning "Universidad Java - De Cero a Experto - Más Completo +106 hrs" from Udemy.
-- ⚡ Fun fact: I love to travel, improve my soft skills and overcome my mental limitations.
-- 📫 How to reach me: 
-          E-mail: orilupellegrini@gmail.com
-          Mobile Number: +54 341 3885320
-          LinkedIn: https://www.linkedin.com/in/oriana-pellegrini/
-
+   
