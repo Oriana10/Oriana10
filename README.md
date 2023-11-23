@@ -4,7 +4,3 @@
 [![Gmail Badge](https://img.shields.io/badge/-orilupellegrini@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:orilupellegrini@gmail.com)](mailto:orilupellegrini@gmail.com)
 
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='150"'>
-
-## ⚡ Domains:
-- Web Development
-- Team Managment
